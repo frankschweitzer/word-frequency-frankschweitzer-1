@@ -279,4 +279,6 @@ int print_results(char output[], struct WordFreq ** wfpp, int size){
     }
     fclose(outputFilePtr);
     return 1;
+
+    /*hello there*/
 }
